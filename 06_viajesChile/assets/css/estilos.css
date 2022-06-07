@@ -1,0 +1,42 @@
+/* --Project specific settings-- */
+
+html {
+  scroll-behavior: auto !important;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.backgroundColorViajesChile {
+  background-color: #379BA6;
+}
+
+/* --Navbar-- */
+
+.settingNavbar {
+  background-color: transparent;
+}
+
+/* 
+  The style of "li" elements changes background color
+  when a user mouses over it. 
+*/
+.settingNavbar li:hover { 
+  background-color: rgba(14, 13, 13, 0.493);
+}
+
+/* --Footer-- */
+
+footer a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+footer a:hover {
+  color: black;
+  opacity: 0.8;
+}
