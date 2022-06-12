@@ -1,5 +1,5 @@
 # Desafío: Viajes Chile
-DESCRIPCIÓN
+DESCRIPCIÓN DESAFÍO:
 La agencia Viajes Chile solicita la creación de su landing page, que tenga un diseño atractivo e innovador.
 
 La página debe contener las siguientes secciones:
