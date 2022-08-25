@@ -41,8 +41,10 @@ body {
   font-weight: var(--font-medium);
 }
 
-.text-justify {
-  text-align: justify;
+@media only screen and (min-width: 992px) {
+  .text-justify {
+    text-align: justify;
+  }
 }
 
 /*================ REUSABLE CSS CLASSES =================*/
