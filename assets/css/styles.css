@@ -30,6 +30,7 @@
 /*======================== BASE ========================*/
 body {
   font-family: var(--body-font);
+  /* background-color: rgba(110, 173, 175, 0.433); */
 }
 
 .font-semi-bold {
